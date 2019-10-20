@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\bin\Debug\7_5_Refactoring.exe.config
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\bin\Debug\7_5_Refactoring.exe
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\bin\Debug\7_5_Refactoring.pdb
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\obj\Debug\7_5_Refactoring.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\obj\Debug\7_5_Refactoring.exe
+D:\[OOP] - Object Oriented Programming\Test\7_5_Refactoring\7_5_Refactoring\obj\Debug\7_5_Refactoring.pdb
